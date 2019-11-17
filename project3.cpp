@@ -1,6 +1,5 @@
 /*
  * Sanika Buche
- * ssb170002
  *
  * A program that takes a file full of commands and with it draws
  * a picture the user wants
